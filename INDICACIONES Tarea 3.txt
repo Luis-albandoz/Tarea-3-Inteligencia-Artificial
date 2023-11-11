@@ -1,0 +1,7 @@
+INDICACIONES:
+
+Para ejecutar el código "Tarea_3_IA_Luis_Albandoz.ipynb" en Google Colab se debe activar el uso del GPU. Para ello se debe
+ir a la pestaña superior "Entorno de Ejecución" en el menú superior, haga click en "Cambiar tipo de entorno de ejecución", 
+y seleccionar/verificar "GPU" en "Acelerador de Hardware".
+
+Para ejecutar el código, se debe ir a la pestaña entorno de ejecución, y seleccionar la opción ejecutar todas. O también se puede ir ejecutando por cada cuadro de código.
